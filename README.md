@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 Here's your `README.md` file for your React Vite project with Tailwind CSS:  
 
 ```markdown
-# Project0 - React Vite Application
+# AI-Arch - React Vite Application
 
-Project0 is a React application built using Vite and styled with Tailwind CSS.
+AI-Arch is a React application built using Vite and styled with Tailwind CSS.
 
 ## Dependencies
 - Vite  
